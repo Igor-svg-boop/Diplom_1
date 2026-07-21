@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2fbf99f6-3547-4d6d-bb76-c30359303e3d" name="Changes" comment="Diplom_1 проверка">
+      <change beforePath="$PROJECT_DIR$/jacoco/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/jacoco-resources/branchfc.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/jacoco-resources/branchnc.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/jacoco-resources/branchpc.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/jacoco-resources/bundle.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/jacoco-resources/class.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/jacoco-resources/down.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/jacoco-resources/greenbar.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/jacoco-resources/group.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/jacoco-resources/method.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/jacoco-resources/package.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/jacoco-resources/prettify.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/jacoco-resources/prettify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/jacoco-resources/redbar.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/jacoco-resources/report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/jacoco-resources/report.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/jacoco-resources/session.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/jacoco-resources/sort.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/jacoco-resources/sort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/jacoco-resources/source.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/jacoco-resources/up.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/jacoco-sessions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/jacoco.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/jacoco.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/praktikum/Bun.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/praktikum/Bun.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/praktikum/Burger.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/praktikum/Burger.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/praktikum/Database.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/praktikum/Database.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/praktikum/Ingredient.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/praktikum/Ingredient.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/praktikum/IngredientType.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/praktikum/IngredientType.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/praktikum/Praktikum.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/praktikum/Praktikum.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/praktikum/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jacoco/praktikum/index.source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BurgerGetReceiptTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BurgerGetReceiptTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="develop1" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Igor-svg-boop&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Igor-svg-boop/Diplom_1.git&quot;,
+    &quot;accountId&quot;: &quot;a266bec3-a6e2-438b-b7aa-088c6b2c04fc&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3GgNmBwPEayuWlIHkmXtgDeLtAb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.BunTest.executor": "Run",
+    "JUnit.BurgerGetPriceTest.executor": "Run",
+    "JUnit.BurgerGetReceiptTest.executor": "Run",
+    "JUnit.BurgerTest.executor": "Run",
+    "JUnit.DatabaseTest.executor": "Run",
+    "JUnit.IngredientTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "develop1",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Игорь/Desktop/Diplom/Diplom_1/target"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Игорь\Desktop\Diplom\Diplom_1\target" />
+      <recent name="C:\Users\Игорь\Desktop\Diplom\Diplom_1\src\test\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Игорь\Desktop\Diplom\Diplom_1" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fbf99f6-3547-4d6d-bb76-c30359303e3d" name="Changes" comment="" />
+      <created>1784389409016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784389409016</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Diplom_1 проверка">
+      <option name="closed" value="true" />
+      <created>1784497268835</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1784497268835</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Remove IDEA project files from repository" />
+    <MESSAGE value="Diplom_1 проверка" />
+    <option name="LAST_COMMIT_MESSAGE" value="Diplom_1 проверка" />
+  </component>
+</project>
