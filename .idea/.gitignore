@@ -1,8 +1,0 @@
-# Default ignored files
-
-target/
-!target/site/
-!target/site/jacoco/
-.idea/
-*.iml
-*.log
